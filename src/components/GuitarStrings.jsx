@@ -6,12 +6,12 @@ import { useGuitarInteraction } from "../hooks/useGuitarInteraction";
 const STRING_PATHS = [
   // These normalized coordinates are intentionally tied to the supplied
   // 1672x941 photograph. The six paths run from bridge toward the fretboard.
-  "M 1048 633 C 1112 561, 1192 450, 1292 36",
-  "M 1074 638 C 1134 568, 1211 457, 1308 34",
-  "M 1101 643 C 1156 574, 1230 462, 1324 32",
-  "M 1128 648 C 1180 582, 1248 468, 1340 30",
-  "M 1156 652 C 1203 589, 1267 475, 1357 27",
-  "M 1183 657 C 1228 595, 1286 481, 1373 24",
+  "M 1105 633 C 1112 561, 1192 450, 1330 36",
+  "M 1125 638 C 1134 568, 1211 457, 1342 34",
+  "M 1146 646 C 1156 574, 1230 462, 1355 32",
+  "M 1165 650 C 1180 582, 1248 468, 1369 30",
+  "M 1188 660 C 1203 589, 1267 475, 1385 27",
+  "M 1210 665 C 1228 595, 1280 481, 1400 24",
 ];
 
 export default function GuitarStrings({ svgRef, onPluck, enabled }) {
