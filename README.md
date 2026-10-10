@@ -1,6 +1,6 @@
-# SONORA — Interactive Guitar
+# Creative guitar
 
-A cinematic interactive guitar hero built with React, Vite, Tailwind CSS, Anime.js and the Web Audio API.
+A cinematic creative guitar hero built with React, Vite, Tailwind CSS, Anime.js and the Web Audio API.
 
 ## 1. Install
 
